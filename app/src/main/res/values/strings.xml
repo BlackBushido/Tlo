@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tło</string>
+    <string name="download_data">POBIERZ INFORMACJE</string>
+    <string name="url_hint" translatable="false">https://www.google.com</string>
+    <string name="address">Address:</string>
+    <string name="file_size">Rozmiar pliku:</string>
+    <string name="file_type">Typ pliku:</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="download_file">POBIERZ PLIK</string>
+    <string name="BytesDownloaded">Pobrano bajtów</string>
+    <string name="channelName">chanelNAME</string>
+    <string name="channeDesc">Opis kanalu</string>
+    <string name="channelId">channelid</string>
+    <string name="download">download</string>
+    <string name="cancel">Cancel</string>
+</resources>
